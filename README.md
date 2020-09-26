@@ -1,5 +1,9 @@
-#### Hi there, I am Evans (Mapopo)! 👋
-[<img height="24" width="24" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />](https://www.linkedin.com/in/evans-odeh)
+#### Hi there 👋
+##### I'm a full-stack developer. I'm passionate about learning new things and solving problems with tech.
+
+- 🔭 I’m currently working on [Monitory and Evaluation Tool](https://staging-webapp-mande-tool.herokuapp.com/)
+- 🌱 I’m currently learning [Apache Hadoop](https://hadoop.apache.org/)
+- 👯 I’m looking to collaborate on open source projects
 
 #### Language and tools
 
