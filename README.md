@@ -1,4 +1,4 @@
-##### Hi, 👋 I'm a full-stack developer. I'm passionate about learning new things and solving problems with tech.
+##### Hi, 👋 I'm a software engineer. I'm passionate about learning new things and solving problems with tech.
 
 - 🔭 I’m currently working on [Monitory and Evaluation Tool](https://staging-webapp-mande-tool.herokuapp.com/)
 - 🌱 I’m currently learning [Apache Hadoop](https://hadoop.apache.org/)
